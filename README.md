@@ -11,7 +11,7 @@ given that maps to a VM's name, the app will attempt to start that VM.
 
 # Setup
 
-1. Grab a release from the releases page of CyrusBiotechnology/ignition
+1. Grab a release from the [releases page](../../releases) page
 2. Run [composer](https://getcomposer.org/doc/01-basic-usage.md) (usually
 something like: `php composer.phar install`)
 3. Copy the `app.example.yaml` file to `app.yaml` and update it if you like
